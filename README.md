@@ -22,4 +22,4 @@ Various projects involving embedded systems.
 
 4. embedded dev
 
-  Various drivers implemented to learn about basics of embedded systems.
+  Various drivers implemented to learn about basics of embedded systems and FREERTOS.
